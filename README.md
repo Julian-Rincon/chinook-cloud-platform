@@ -215,9 +215,11 @@ At a high level:
 - Athena analytical tables and queries: implemented
 - Power BI report artifact: included in `reports/chinook_analytics.pbix`
 
-## Author
+## Authors
 
-**Julian Esteban Rincon Rodriguez**
+Juan Hurtado, David Martinez and **Julián Rincón** (B.Sc. Computer Science & Artificial Intelligence, Universidad Sergio Arboleda).
 
-Systems Engineering and Artificial Intelligence
-GitHub: [@Julian-Rincon](https://github.com/Julian-Rincon)
+---
+
+<!-- julian-rincon-footer -->
+<p align="center"><sub>Built by <b>Julián Rincón</b> (team project with Juan Hurtado and David Martinez) · <a href="https://julian-rincon.github.io/#p-chinook">Portfolio</a> · <a href="https://www.linkedin.com/in/julian-esteban-rinc%C3%B3n-rodriguez-1a05501b7/">LinkedIn</a> · <a href="https://github.com/Julian-Rincon">GitHub</a></sub></p>
